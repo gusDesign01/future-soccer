@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/future-soccer/static/css/main.4747f1b8.css",
+    "main.js": "/future-soccer/static/js/main.f76f8ddf.js",
+    "static/js/787.963e9715.chunk.js": "/future-soccer/static/js/787.963e9715.chunk.js",
+    "static/media/soccer_mainBackground.jpg": "/future-soccer/static/media/soccer_mainBackground.862c9e5be929bc0e4f55.jpg",
+    "static/media/logo.svg": "/future-soccer/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/future-soccer/index.html",
+    "main.4747f1b8.css.map": "/future-soccer/static/css/main.4747f1b8.css.map",
+    "main.f76f8ddf.js.map": "/future-soccer/static/js/main.f76f8ddf.js.map",
+    "787.963e9715.chunk.js.map": "/future-soccer/static/js/787.963e9715.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4747f1b8.css",
+    "static/js/main.f76f8ddf.js"
+  ]
+}
